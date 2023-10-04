@@ -7,16 +7,13 @@
   padding: 10px 20px;
   margin-top: 20px;
   margin-left: 15px;
- 
-
 
   width: 95%;
-  z-index: 999; 
+  z-index: 999;
 }
 
-
 .logo {
-  font-family: 'Your Modern Bold Font', sans-serif;
+  font-family: "Your Modern Bold Font", sans-serif;
   font-weight: bold;
   font-size: 24px;
 }
@@ -29,13 +26,14 @@
 
 /* To set the background image */
 .body {
-
-  background: url("pattern-7455773_1280.png")
-    no-repeat center center/cover;
+  background: url("pattern-7455773_1280.png") no-repeat center center/cover;
   height: 100vh;
   position: static;
 }
 
-.projects{opacity: 1; 
-  transform: translate3d(0px, -94.7043px, 0px); visibility: inherit;
+.projects {
+  opacity: 1;
+  transform: translate3d(0px, -94.7043px, 0px);
+  visibility: inherit;
 }
+
