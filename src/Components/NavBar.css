@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border: 4px solid black;
+  padding: 10px 20px;
+  margin-top: 20px;
+  margin-left: 15px;
+ 
+
+
+  width: 95%;
+  z-index: 999; 
+}
+
+
+.logo {
+  font-family: 'Your Modern Bold Font', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+
+/* To set the background image */
+.body {
+
+  background: url("pattern-7455773_1280.png")
+    no-repeat center center/cover;
+  height: 100vh;
+  position: static;
+}
+
+.projects{opacity: 1; 
+  transform: translate3d(0px, -94.7043px, 0px); visibility: inherit;
+}

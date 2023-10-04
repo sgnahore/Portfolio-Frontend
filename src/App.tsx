@@ -1,7 +1,11 @@
-import { greet } from "./utils/greet";
+import React from "react";
+import { NavBar } from "./Components/NavBar";
 
 function App(): JSX.Element {
-  return <h1>{greet("World")}</h1>;
+  return (<>
+< NavBar />
+  </>
+  )
 }
 
 export default App;
